@@ -1,5 +1,9 @@
 List of my favorite blogs, newsletters, and podcasts which allow me to stay on top of latest developments of Web Development world.
 
+## Learning
+- Grow Your Technical Skills with Google: https://techdevguide.withgoogle.com/
+- Thousands of coding lessons to help you improve your skills: https://learn.freecodecamp.org/
+
 ## Blogs & Articles:
 - dev.to: https://dev.to/
 - Smashing Magazine: https://www.smashingmagazine.com
