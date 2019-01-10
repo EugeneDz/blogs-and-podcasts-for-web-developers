@@ -22,6 +22,7 @@ List of my favorite blogs, newsletters, and podcasts which allow me to stay on t
 
 ## Newsletters:
 - JavaScript weekly: https://javascriptweekly.com
+- Node Weekly: https://nodeweekly.com/
 - Frontend Focus: https://frontendfoc.us
 - Responsive Design Newsletter: http://responsivedesignweekly.com
 - HackerNewsLetter (https://mailchi.mp/hackernewsletter/411?e=e4aa134322)
