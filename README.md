@@ -3,6 +3,7 @@ List of my favorite blogs, newsletters, and podcasts which allow me to stay on t
 ## Learning
 - Grow Your Technical Skills with Google: https://techdevguide.withgoogle.com/
 - Thousands of coding lessons to help you improve your skills: https://learn.freecodecamp.org/
+- CSS Grid Video Course: https://github.com/wesbos/css-grid
 
 ## Blogs & Articles:
 - dev.to: https://dev.to/
